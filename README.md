@@ -46,8 +46,6 @@ Each challenge folder contains:
 - Input Files
 - Alteryx Workflow (.yxmd)
 - Output Files
-- Workflow Screenshot
-- Solution Explanation
 
 ---
 
